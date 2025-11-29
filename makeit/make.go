@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Lanshan-homework/four/pakege"
 	"fmt"
+	"four/pakege"
 	"os"
 )
 
